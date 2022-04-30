@@ -1,4 +1,4 @@
-# Business-Analytics--KNIME
+# Lab 1- KNIME
 First project using KNIME in my Business Analytics course.
 
 This project involved the importation of an excel file (Height of Male and Female 2022) into the KNIME platform using the excel reader node. 
